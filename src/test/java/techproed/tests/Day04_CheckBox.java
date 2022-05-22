@@ -1,4 +1,4 @@
-package com.myfirstproject;
+package techproed.tests;
 
 import org.junit.After;
 import org.junit.Assert;

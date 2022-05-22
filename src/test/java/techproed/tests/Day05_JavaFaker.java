@@ -1,4 +1,4 @@
-package com.myfirstproject;
+package techproed.tests;
 
 import com.github.javafaker.Faker;
 import org.junit.Test;
